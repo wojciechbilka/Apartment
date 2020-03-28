@@ -10,6 +10,8 @@ public class Main {
         Apartment ap2 = new Apartment("Cracow", 31, 7790);
         Apartment ap3 = new Apartment("Gdansk", 15, 8550.22);
 
+
+
         List<Apartment> list = new ArrayList<>();
         list.add(ap1);
         list.add(ap2);
